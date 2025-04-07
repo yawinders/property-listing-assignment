@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  /* font-family: 'Inter', sans-serif; */
+  font-family: cursive;
+  box-sizing: border-box;
+}
+
+.light {
+  /* background-color: #d1c7c7; */
+  background-color: #e6ecfc;
+  color: #000000;
+}
+
+.dark {
+  background-color: #19233b;
+  color: #ffffff;
+}
+
+.cardDark {
+  background-color: #152235;
+  color: white;
+}
+
+.cardLight {
+  background-color: #e6ecfc;
+  color: black;
+}
+
+.bgDark {
+  background-color: #08101f;
+  color: white;
+}
+
+.bgLight {
+  background-color: #d1c7c7;
+  color: black;
+}

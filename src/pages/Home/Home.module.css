@@ -1,0 +1,30 @@
+.homeParent {
+    display: flex;
+    /* background-color: #e3c9c9; */
+}
+
+.SearchFilter {
+    /* margin-top: 25px; */
+
+    padding: 10px;
+    width: 25%;
+    /* background-color: gray; */
+    height: 90vh;
+}
+
+.apartment {
+    width: 75%;
+    height: 90vh;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+@media (max-width: 600px) {
+    .SearchFilter {
+        display: none;
+    }
+
+    .apartment {
+        width: 100%;
+    }
+}

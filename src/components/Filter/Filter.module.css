@@ -1,0 +1,11 @@
+.inputPrice {
+    width: 80%;
+    cursor: pointer;
+    /* -webkit-appearance: none;
+
+    appearance: none; */
+    height: 8px;
+    background: #ccc;
+    border-radius: 2px;
+    outline: none;
+}

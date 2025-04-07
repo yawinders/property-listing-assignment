@@ -1,0 +1,26 @@
+.box {
+    border: 1px solid black;
+    padding: 10px;
+    /* margin: 5px; */
+
+    cursor: pointer;
+}
+
+.boxColor {
+    background-color: black;
+    color: white;
+}
+
+.arrowLeft {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.arrowRight {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
